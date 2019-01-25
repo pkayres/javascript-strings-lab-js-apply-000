@@ -1,2 +1,2 @@
-var greeting = 'Hello, everybody!'; 
-var greetSpecialGuest = `Hello, ${specialGuest}!`;
+var greeting = 'Hello, everybody!';
+let greetSpecialGuest = `Hello, ${specialGuest}!`;
