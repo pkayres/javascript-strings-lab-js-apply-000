@@ -1,3 +1,1 @@
-function greeting(){
-  return "Hello, everybody!"
-}
+var greeting = 'Hello, everyone!'
